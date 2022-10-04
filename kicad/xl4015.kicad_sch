@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d3643d5a-dea7-4cb1-a791-2abeab3e7a92)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Step-Down Converter" (at 68.326 57.785 0)
+    (effects (font (size 10.0076 10.0076) (thickness 2.0015) bold italic) (justify left bottom))
+    (uuid 8da0b138-a914-4439-b0c8-88d5ca9d0436)
+  )
+)
