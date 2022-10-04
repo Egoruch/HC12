@@ -165,7 +165,6 @@
   )
 
 
-
   (wire (pts (xy 139.7 102.362) (xy 139.7 102.235))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0fd48dc3-9f65-406d-a63e-6a3b0e16eed0)
@@ -201,7 +200,7 @@
   (symbol (lib_id "Power:GROUND") (at 139.7 107.442 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d8fa9657-a828-4309-b2f5-40f10ff9302c)
-    (property "Reference" "#PWR042" (id 0) (at 139.7 112.522 0)
+    (property "Reference" "#PWR031" (id 0) (at 139.7 112.522 0)
       (effects (font (size 1.778 1.778)) hide)
     )
     (property "Value" "GROUND" (id 1) (at 139.7 115.062 0)
