@@ -180,9 +180,9 @@
   )
 
   (symbol (lib_id "Connectors:XP_PIN_ARR1") (at 157.48 104.775 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 50de13ae-c958-42ab-baa7-e814a4cc7da4)
-    (property "Reference" "XP1" (id 0) (at 157.48 95.758 0)
+    (property "Reference" "XP9" (id 0) (at 157.48 95.758 0)
       (effects (font (size 1.778 1.778)))
     )
     (property "Value" "Testpoint" (id 1) (at 157.48 98.298 0)
