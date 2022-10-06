@@ -6,5 +6,7 @@ https://docs.google.com/spreadsheets/d/1wJYobUlirJagnpwVgyCYauzqecT7cTif/edit?us
 https://drive.google.com/file/d/1Tp2sTwzi-Ly-wEZ6M84Gb-yMDyOYbHYp/view?usp=sharing
 ПП радиодатчика:
 https://drive.google.com/drive/folders/1lfkVosFPX9y5FLTUVtVRRMeN4wk9LlCC?usp=sharing
-Gerber файлы для производства:
+Модель платы (с корпусом):
+https://drive.google.com/drive/folders/1NUICps0BwOciWtpKbLGdB7HsDqwth-54?usp=sharing
+Gerber файлы для производства (добавлена версия с пастой):
 https://drive.google.com/drive/folders/1iUnzhOaEHeU_WpuIBQ32vcUq3tqi_gd5?usp=sharing
