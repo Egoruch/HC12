@@ -1,0 +1,10 @@
+Электрическая схема радиодатчика:
+https://drive.google.com/file/d/1U-78wbJ-Mu7dbrbfMm--YsTQ_heRFNcY/view?usp=sharing
+Спецификации на комплектующие:
+https://docs.google.com/spreadsheets/d/1wJYobUlirJagnpwVgyCYauzqecT7cTif/edit?usp=sharing&ouid=104427425357822877837&rtpof=true&sd=true
+Монтажная схема радиодатчика:
+https://drive.google.com/file/d/1Tp2sTwzi-Ly-wEZ6M84Gb-yMDyOYbHYp/view?usp=sharing
+ПП радиодатчика:
+https://drive.google.com/drive/folders/1lfkVosFPX9y5FLTUVtVRRMeN4wk9LlCC?usp=sharing
+Gerber файлы для производства:
+https://drive.google.com/drive/folders/1iUnzhOaEHeU_WpuIBQ32vcUq3tqi_gd5?usp=sharing
