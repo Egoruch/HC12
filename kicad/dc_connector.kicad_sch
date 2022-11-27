@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RadioSens v1")
+    (comment 2 "Electrical Circuit")
+  )
+
   (lib_symbols
     (symbol "Capacitors:C_CAP" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0 6.35 0)

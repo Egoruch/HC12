@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RadioSens v1")
+    (comment 2 "Electrical Circuit")
+  )
+
   (lib_symbols
     (symbol "Connectors:XP_PIN_ARR1" (pin_numbers hide) (pin_names (offset 2.54)) (in_bom yes) (on_board yes)
       (property "Reference" "XP" (id 0) (at -2.794 10.414 0)

@@ -378,7 +378,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hs12.kicad_pro",
+    "filename": "RadioSens.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -426,7 +426,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.25,
@@ -449,7 +449,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "${KICAD6_TEMPLATE_DIR}/A4-portrait_ISO5457-1999_ISO7200-2004-compact_EN.kicad_wks",
-    "plot_directory": "./",
+    "plot_directory": "../wiring diagram/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -563,6 +563,10 @@
     [
       "cca4d0ec-e2ef-4622-b744-71a3327880ab",
       "Mounting Holes"
+    ],
+    [
+      "49d7abad-78a9-40e7-b7af-bd6c7789fca2",
+      "Radiosens v1 Wiring Diagram 24V"
     ]
   ],
   "text_variables": {}
