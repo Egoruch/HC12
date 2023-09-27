@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid ed5a0183-94d0-4a71-aefc-b4724f97e225)
+  (uuid 8726da51-fad9-439c-9c17-a2bba17d2488)
 
   (paper "A4")
 
@@ -132,6 +132,30 @@
       (project "RadioSens"
         (path "/d8a72df0-904a-413a-8147-12e635dec35e/94dee1d1-e75f-474e-a2d5-3d7d7eb2659b"
           (reference "FID1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:Fiducial") (at 144.78 124.46 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid cfdee140-379f-494e-a585-e242d884b0ed)
+    (property "Reference" "FID5" (at 147.32 123.19 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Fiducial_1.5mm_Mask3mm" (at 147.32 125.73 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Fiducial:Fiducial_1.5mm_Mask3mm" (at 144.78 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 144.78 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "RadioSens"
+        (path "/d8a72df0-904a-413a-8147-12e635dec35e/94dee1d1-e75f-474e-a2d5-3d7d7eb2659b"
+          (reference "FID5") (unit 1)
         )
       )
     )
