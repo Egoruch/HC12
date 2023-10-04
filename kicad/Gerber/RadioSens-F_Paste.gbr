@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
-%TF.CreationDate,2022-10-06T21:18:37+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-10-01T16:40:48+03:00*%
 %TF.ProjectId,RadioSens,52616469-6f53-4656-9e73-2e6b69636164,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-10-06 21:18:37*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-10-01 16:40:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -78,9 +78,9 @@ X87554839Y-83135680D03*
 %TD*%
 D14*
 %TO.C,DA4*%
-X127269815Y-94923180D03*
-X128469815Y-95673180D03*
 X127269815Y-95673180D03*
+X128469815Y-95673180D03*
+X127269815Y-94923180D03*
 X128469815Y-94923180D03*
 D15*
 X126869815Y-96748180D03*
